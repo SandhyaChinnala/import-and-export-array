@@ -1,3 +1,3 @@
-const arr1 = ["countries", 190, "continents", 7, false, 6.2];
+const array1 = ["countries", 190, "continents", 7, false, 6.2];
 
-export default arr1;
+export default array1;

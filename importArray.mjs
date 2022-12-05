@@ -1,3 +1,3 @@
-import arr1 from "./exportArray.mjs";
+import array1 from "./exportArray.mjs";
 
-console.log(arr1);
+console.log(array1);
